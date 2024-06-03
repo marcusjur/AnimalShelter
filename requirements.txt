@@ -1,0 +1,6 @@
+pyarrow
+pandas
+duckdb
+colorama
+uvicorn
+fastapi
